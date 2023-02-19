@@ -1,0 +1,66 @@
+
+    {
+        "@context": "http://schema.org/",
+        "@type": "Recipe",
+        "name": "Dirty Rice with Shrimp",
+        "image": [
+            "https://www.simplyrecipes.com/wp-content/uploads/2020/09/Dirty-Rice-with-Shrimp-LEAD-2-600x400.jpg"
+        ],
+        "description": "This Louisiana-style dirty rice with shrimp is a classic Southern dish. With classic Cajun spices, a flavorful base of onions, celery, and bell pepper, and plenty of protein from the shrimp, this dish is a complete meal in one pot.",
+        "keywords": "dirty rice, cajun, shrimp, rice, rice dish, Louisiana, Southern, one pot",
+        "author": {
+            "@type": "Person",
+            "name": "Elise Bauer"
+        },
+        "datePublished": "2020-09-09",
+        "prepTime": "PT20M",
+        "cookTime": "PT25M",
+        "totalTime": "PT45M",
+        "recipeYield": "4 servings",
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "338 calories"
+        },
+        "recipeIngredient": [
+            "1 lb shrimp, peeled and deveined",
+            "2 tablespoons olive oil",
+            "1 large onion, diced",
+            "2 stalks celery, chopped",
+            "1 green bell pepper, diced",
+            "2 cloves garlic, minced",
+            "1 teaspoon Cajun seasoning",
+            "1/2 teaspoon dried oregano",
+            "1/2 teaspoon dried thyme",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon freshly ground black pepper",
+            "1/4 teaspoon ground white pepper",
+            "1/4 teaspoon garlic powder",
+            "2 cups long-grain white rice",
+            "3 cups chicken broth",
+            "2 bay leaves",
+            "1/4 cup chopped parsley (optional)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "In a large skillet over medium heat, heat the oil. Add the onion, celery, bell pepper, and garlic. Sauté until the vegetables are softened, about 4 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the Cajun seasoning, oregano, thyme, cayenne, smoked paprika, black pepper, white pepper, and garlic powder. Stir to combine."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the rice, chicken broth, and bay leaves. Bring to a boil, then reduce the heat to low and cover. Simmer for 15 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the shrimp. Cover and cook until the shrimp are cooked through and the rice is tender, about 5 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the parsley and fluff the rice with a fork. Serve hot."
+            }
+        ]
+    }
